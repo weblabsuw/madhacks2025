@@ -12,5 +12,11 @@
       ]
     }
   },
+  "portsAttributes": {
+    "5500": {
+      "label": "Application",
+      "onAutoForward": "openPreview"
+    }
+  },
   "forwardPorts": [5500]
 }
