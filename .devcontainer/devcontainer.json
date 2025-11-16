@@ -1,5 +1,11 @@
 {
   "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "index.html",
+        "main.css"
+      ]
+    },
     "vscode": {
       "extensions": [
         "ritwickdey.LiveServer"
